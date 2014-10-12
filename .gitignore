@@ -1,2 +1,5 @@
+# Python bytecode
+*.pyc
+
 # Arquivo do "banco de dados"
 db.sqlite3
