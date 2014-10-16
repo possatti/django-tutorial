@@ -1,0 +1,6 @@
+#!/bin/sh
+
+## Prepara o ambiente de desenvolvimento
+
+# Indica o caminho para o banco de dados
+export DATABASE_URL='sqlite:////home/possatti/projects/django_tutorial/db.sqlite3'
